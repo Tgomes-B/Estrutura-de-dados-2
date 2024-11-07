@@ -1,0 +1,3 @@
+/home/leonardo/Área de Trabalho/Arquivos do Thales/ed2/Estrutura-de-dados-2/hell/build/CMakeFiles/hello.dir
+/home/leonardo/Área de Trabalho/Arquivos do Thales/ed2/Estrutura-de-dados-2/hell/build/CMakeFiles/edit_cache.dir
+/home/leonardo/Área de Trabalho/Arquivos do Thales/ed2/Estrutura-de-dados-2/hell/build/CMakeFiles/rebuild_cache.dir
